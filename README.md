@@ -3,14 +3,16 @@ This project showcase E-commerce Revenue Optimization Using Customer Segmentatio
 Dataset Summary
 
 
-Project Overview
+## Project Overview
 
 This project analyzes 3,900 e-commerce transactions to understand customer shopping behavior and identify opportunities to improve revenue, customer retention, and marketing strategy.
 The analysis uses Python for data cleaning, SQL for business analysis, and Power BI for visualization to build an end-to-end data analytics workflow. 
 
 E-commerce Revenue Optimization…
 
-Business Questions
+
+
+## Business Questions
 
 Which customer segments generate the most revenue?
 
@@ -20,7 +22,9 @@ Do discounts increase spending?
 
 Are repeat buyers more likely to subscribe?
 
-Tools Used
+
+
+## Tools Used
 
 Python (Pandas) – Data cleaning and feature engineering
 
@@ -28,7 +32,9 @@ SQL (PostgreSQL) – Business data analysis
 
 Power BI – Interactive dashboard and visualization
 
-Key Insights
+
+
+## Key Insights
 
 Loyal customers generate higher average spending
 
@@ -40,7 +46,9 @@ Express shipping users tend to spend more per order
 
 E-commerce Revenue Optimization…
 
-Business Recommendations
+
+
+## Business Recommendations
 
 Promote subscription programs for repeat buyers
 
